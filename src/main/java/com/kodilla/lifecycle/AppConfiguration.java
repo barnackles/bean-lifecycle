@@ -9,5 +9,9 @@ public class AppConfiguration {
     public LibraryManager libraryManager() {
         return new LibraryManager();
     }
+    @Bean
+    public BeanMonitor beanMonitor() {
+        return new BeanMonitor();
+    }
 
 }
