@@ -1,4 +1,4 @@
-package com.kodilla.beanlifecycle;
+package com.kodilla.lifecycle;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
